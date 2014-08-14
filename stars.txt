@@ -3,4 +3,5 @@ Pollus
 Sun
 D
 Sirius
+AlphaC
 New
