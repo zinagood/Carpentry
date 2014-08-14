@@ -2,4 +2,5 @@ stars:
 Pollus
 Sun
 D
+Sirius
 
